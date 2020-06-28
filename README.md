@@ -1,1 +1,1 @@
-new
+init 3
